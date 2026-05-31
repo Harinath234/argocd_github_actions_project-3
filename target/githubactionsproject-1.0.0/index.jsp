@@ -6,6 +6,7 @@
 
 		<div>Congratulations DevOps Engineers on successfully deploying Application with GITHUB ACTIONS AUTOMATION&#127881;</div>
 
+        <div>Congratulations DevOps Engineers on successfully deploying Application - Running on Self-Hosted Runner&#127881;</div>
 	
 </body>
 </html>
