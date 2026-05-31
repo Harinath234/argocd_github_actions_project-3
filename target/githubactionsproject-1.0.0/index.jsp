@@ -6,6 +6,7 @@
 
 		<div>Congratulations DevOps Engineers on successfully deploying Application with GITHUB ACTIONS AUTOMATION&#127881;</div>
 
+        <div>Congratulations DevOps Engineers on successfully deploying Application with GITHUB ACTIONS AUTOMATION&#127882 - Version2;</div>
 	
 </body>
 </html>
