@@ -30,7 +30,7 @@ jobs:
          java-version: '17'
       - name: Install Maven
         run: |
-         sudo apt install maven -y
+         sudo yum install maven -y
 
       # Maven Build
       - name: Build with Maven
